@@ -13,10 +13,10 @@ Technologies used :
 Features :
    -Add tasks,
    -Remove tasks,
-   -List all tasks
+   -Show all tasks
 
 
 
 Contact me :
-Email : nandhakishort261@gmail.com
+Email : nandhakishort57@gmail.com
 Github : NandhuT17
